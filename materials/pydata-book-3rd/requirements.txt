@@ -12,3 +12,4 @@ openpyxl
 fastparquet
 tables
 SQLAlchemy==1.4.46
+pyarrow
