@@ -21,19 +21,19 @@ reorganized book materials on the [`1st-edition` branch][2].
 
 ## IPython Notebooks:
 
-* [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch02.ipynb)
-* [Chapter 3: Built-in Data Structures, Functions, and Files](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch03.ipynb)
-* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch04.ipynb)
-* [Chapter 5: Getting Started with pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch05.ipynb)
-* [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch06.ipynb)
-* [Chapter 7: Data Cleaning and Preparation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch07.ipynb)
-* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch08.ipynb)
-* [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch09.ipynb)
-* [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch10.ipynb)
-* [Chapter 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch11.ipynb)
-* [Chapter 12: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch12.ipynb)
-* [Chapter 13: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
-* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/appa.ipynb)
+* [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](ch02.ipynb)
+* [Chapter 3: Built-in Data Structures, Functions, and Files](ch03.ipynb)
+* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation](ch04.ipynb)
+* [Chapter 5: Getting Started with pandas](ch05.ipynb)
+* [Chapter 6: Data Loading, Storage, and File Formats](ch06.ipynb)
+* [Chapter 7: Data Cleaning and Preparation](ch07.ipynb)
+* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](ch08.ipynb)
+* [Chapter 9: Plotting and Visualization](ch09.ipynb)
+* [Chapter 10: Data Aggregation and Group Operations](ch10.ipynb)
+* [Chapter 11: Time Series](ch11.ipynb)
+* [Chapter 12: Introduction to Modeling Libraries in Python](ch12.ipynb)
+* [Chapter 13: Data Analysis Examples](ch13.ipynb)
+* [Appendix A: Advanced NumPy](appa.ipynb)
 
 ## License
 
