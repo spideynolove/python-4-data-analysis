@@ -15,3 +15,9 @@ def to_csv(df, path):
 def read_csv(path):
     dtypes = pd.read_csv(path, nrows=1).iloc[0].to_dict()
     return pd.read_csv(path, dtype=dtypes, skiprows=[1])
+
+
+# def test_shit():
+#     # print something cool
+#     print("something cool")
+#     my shit realy big
